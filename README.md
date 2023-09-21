@@ -1,3 +1,4 @@
+May move to [Bitbucket](https://bitbucket.org/naturevault/) or [Gitlab](https://gitlab.com/giverofmemory/) due to mandatory 2FA here.
 # ProgPoW - A Programmatic Proof of Work
 
 [![Join the chat at https://gitter.im/ifdefelse/community](https://badges.gitter.im/ifdefelse/community.svg)](https://gitter.im/ifdefelse/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)[![Follow us](https://img.shields.io/twitter/follow/IfDefElse_.svg)](https://twitter.com/IfDefElse_)
